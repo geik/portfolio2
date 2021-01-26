@@ -30,4 +30,15 @@ jobs:
         run: |
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-          jekyll/builder:latest /bin/bash -c "chown jekyll:jekyll -R /srv/jekyll && gem install bundler && jekyll build"
+          jekyll/builder:latest /bin/bash -c "chown jekyll:jekyll -R /srv/jekyll && gem install bundler && jekyll build && ls -al /src/jekyll/_site"
+          ls -al ${{ github.workspace }}/_site
+
+      - name: Upload the site to Google Cloud Storage
+        env:
+          GCS-SECRET: ${{ secrets.JORG_EIKENS_COM_D211EE91E559 }}
+        run: |
+          echo $GCS-SECRET > ${{ github.workspace }}/secret.json
+          docker run \
+          -v ${{ github.workspace }}:/home \
+          gcr.io/google.com/cloudsdktool/cloud-sdk:latest gcloud auth activate-service-account --key-file=/home/secret.json && gsutil rsync -R /home/_site gs://jorg.eikens.com"
+
