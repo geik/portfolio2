@@ -37,7 +37,7 @@ jobs:
         env:
           GCS-SECRET: ${{ secrets.JORG_EIKENS_COM_D211EE91E559 }}
         run: |
-          echo $GCS-SECRET > ${{ github.workspace }}/secret.json
+          echo "$GCS-SECRET" > ${{ github.workspace }}/secret.json
           chmod 777 ${{ github.workspace }}/secret.json
           docker run \
           -v ${{ github.workspace }}:/home \
