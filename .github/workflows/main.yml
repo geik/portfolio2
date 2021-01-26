@@ -37,7 +37,6 @@ jobs:
         env:
           GCS-SECRET: ${{ secrets.JORG_EIKENS_COM_D211EE91E559 }}
         run: |
-          docker run \
-          -v ${{ github.workspace }}:/home -e "THE-SECRET=$GCS-SECRET"\
+          docker run -v ${{ github.workspace }}:/home -e "THE-SECRET=$GCS-SECRET" \
           gcr.io/google.com/cloudsdktool/cloud-sdk:latest /bin/bash -c "echo $THE-SECRET > /home/secret.json && gcloud auth activate-service-account --key-file=/home/secret.json && gsutil rsync -R /home/_site gs://jorg.eikens.com"
 
