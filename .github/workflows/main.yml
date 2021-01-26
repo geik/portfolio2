@@ -30,6 +30,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           chown jekyll:jekyll -R /usr/gem
+          chmod ug+rw -R /__w
           cd $GITHUB_WORKSPACE
           jekyll build
           cd _site
