@@ -17,3 +17,8 @@ nav a {
 .navbar-brand {
     font-size: 1rem;
 }
+@media (min-width: 576px) {
+    .container {
+        padding-left: 0px;
+    }    
+}
