@@ -31,7 +31,8 @@ jobs:
         working-directory: /srv/jekyll
         run: |
           chown jekyll:jekyll -R /usr/gem
-          chmod ug+rw -R /srv/jekyll
+          chown jekyll:jekyll -R /srv/jekyll
+          chown jekyll:jekyll -R /__w/portfolio2/portfolio2/Gemfile.lock
           cd $GITHUB_WORKSPACE
           jekyll build
           cd _site
