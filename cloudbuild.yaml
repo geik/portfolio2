@@ -1,6 +1,8 @@
 steps:
   - name: 'bash'
     args: ["-c", "chmod 777 ./Gemfile.lock"]
+  - name: 'bash'
+    args: ["-c", "chmod 777 ./_site"]    
   - name: jekyll/builder:latest
     entrypoint: jekyll
     args: ["build"]  
