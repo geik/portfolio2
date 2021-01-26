@@ -7,6 +7,6 @@ steps:
     args: ["-c", "cat ./_config.yml"]
   - name: jekyll/builder:latest
     entrypoint: jekyll
-    args: ["build"]  
+    args: ["build", "--disable-disk-cache"]
   - name: gcr.io/cloud-builders/gsutil
     args: ["-m", "rsync", "-r", "-d", "./_site", "gs://jorg.eikens.com"]
