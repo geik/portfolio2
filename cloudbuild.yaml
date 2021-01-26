@@ -2,7 +2,9 @@ steps:
   - name: 'bash'
     args: ["-c", "chmod 777 ./Gemfile.lock"]
   - name: 'bash'
-    args: ["-c", "chmod 777 -R ."]    
+    args: ["-c", "chmod 777 -R ."]
+  - name: 'bash'
+    args: ["-c", "cat ./_config.yml"]
   - name: jekyll/builder:latest
     entrypoint: jekyll
     args: ["build"]  
