@@ -4,3 +4,5 @@ title: "Jorg Eikens" # the name of your site, e.g. ACME Corp.
 sass:
   sass_dir: css
   style:    compressed
+plugins:
+  - jekyll-relative-links

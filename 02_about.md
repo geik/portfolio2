@@ -1,6 +1,6 @@
 ---
 layout: page-in-nav
-title: Test
+title: About me
 ---
 
 Zeg het maar ...
