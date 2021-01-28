@@ -1,18 +1,6 @@
 ---
-layout: page-in-nav
+layout: default
 title: About me
 ---
 
-Zeg het maar ...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita graviter et severe voluptatem secrevit a bono. Est autem a te semper dictum nec gaudere quemquam nisi propter corpus nec dolere. Non ego tecum iam ita iocabor, ut isdem his de rebus, cum L. <mark>Memini vero, inquam;</mark> Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile. Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates, eas obscurari saepe et obrui. Duo Reges: constructio interrete. Id et fieri posse et saepe esse factum et ad voluptates percipiendas maxime pertinere.
-
-Stulti autem malorum memoria torquentur, sapientes bona praeterita grata recordatione renovata delectant. Nemo nostrum istius generis asotos iucunde putat vivere. Et tamen tantis vectigalibus ad liberalitatem utens etiam sine hac Pyladea amicitia multorum te benivolentia praeclare tuebere et munies. Itaque illa non dico me expetere, sed legere, nec optare, sed sumere, contraria autem non fugere, sed quasi secernere. Quae quidem res efficit, ne necesse sit isdem de rebus semper quasi dictata decantare neque a commentariolis suis discedere. Quod quidem iam fit etiam in Academia. Sed in ceteris artibus cum dicitur artificiose, posterum quodam modo et consequens putandum est, quod illi §pigennhmatikÒn appellant; Ut scias me intellegere, primum idem esse dico voluptatem, quod ille don.
-
-<a href="http://loripsum.net/" target="_blank">Urgent tamen et nihil remittunt.</a> Ut enim consuetudo loquitur, id solum dicitur honestum, quod est populari fama gloriosum. <a href="http://loripsum.net/" target="_blank">Non quam nostram quidem, inquit Pomponius iocans;</a> Animum autem reliquis rebus ita perfecit, ut corpus; <a href="http://loripsum.net/" target="_blank">Collatio igitur ista te nihil iuvat.</a>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita graviter et severe voluptatem secrevit a bono. Est autem a te semper dictum nec gaudere quemquam nisi propter corpus nec dolere. Non ego tecum iam ita iocabor, ut isdem his de rebus, cum L. <mark>Memini vero, inquam;</mark> Eodem modo is enim tibi nemo dabit, quod, expetendum sit, id esse laudabile. Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates, eas obscurari saepe et obrui. Duo Reges: constructio interrete. Id et fieri posse et saepe esse factum et ad voluptates percipiendas maxime pertinere.
-
-Stulti autem malorum memoria torquentur, sapientes bona praeterita grata recordatione renovata delectant. Nemo nostrum istius generis asotos iucunde putat vivere. Et tamen tantis vectigalibus ad liberalitatem utens etiam sine hac Pyladea amicitia multorum te benivolentia praeclare tuebere et munies. Itaque illa non dico me expetere, sed legere, nec optare, sed sumere, contraria autem non fugere, sed quasi secernere. Quae quidem res efficit, ne necesse sit isdem de rebus semper quasi dictata decantare neque a commentariolis suis discedere. Quod quidem iam fit etiam in Academia. Sed in ceteris artibus cum dicitur artificiose, posterum quodam modo et consequens putandum est, quod illi §pigennhmatikÒn appellant; Ut scias me intellegere, primum idem esse dico voluptatem, quod ille don.
-
-<a href="http://loripsum.net/" target="_blank">Urgent tamen et nihil remittunt.</a> Ut enim consuetudo loquitur, id solum dicitur honestum, quod est populari fama gloriosum. <a href="http://loripsum.net/" target="_blank">Non quam nostram quidem, inquit Pomponius iocans;</a> Animum autem reliquis rebus ita perfecit, ut corpus; <a href="http://loripsum.net/" target="_blank">Collatio igitur ista te nihil iuvat.</a>
+Jorg Eikens, ...

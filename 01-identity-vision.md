@@ -15,7 +15,7 @@ title: "Identity & Vision"
 ## Identity
 
 As a child, solving puzzles and getting to know "how things work" were some of my many pleasures. 
-From my teenage years on, I like to work with sewing machines and machinery in general. I LOVE to make stuff. 
+From my teenage years on, I like to work with sewing machines and machinery in general. I LOVE to make stuff.  
 Later on I used my pre-existing curiosity for computers to adopt 3D modelling and computer-aided design. What excites me a lot is bridging this digital/virtual/conceptual world and the physical world. For example with the use of 3D printing.  
 Bridging "digital" and "physical" also fascinates me as a designer, especially when it impacts the user in their daily lives & -routines.
 

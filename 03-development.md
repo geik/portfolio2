@@ -7,17 +7,13 @@ title: "Development"
 
 ### Creativity & Aesthetics
 
-I started my Bachelor, I thought that I had a pretty solid background regarding creativity and manufactoring. But during the first year I found out that there's an incredible amount ..... to learn.
+When I started my Bachelor, I thought that I had a pretty solid background regarding creativity and manufacturing. But during the first year I found out that I was only at the very start of a journey and that there's a lot to learn.
 
-- Meer tools leren gebruiken
-- Creativiteit als proces leren zien
-- Van concept naar een digitaal prototype
-- Een concept vormen door het te tekenen
-- Leren van de "schoonheid" van interactie
+I have learned to use a variety of tools, to see and use creativity as a process, how to shape a concept by exploratory sketching, how to turn a concept into a digital prototpye and to witness the beauty of interaction. 
 
-FBP:
-- CAD modelling skills
-- Interaction design
+During my Final Bachelor Project I have applied my CAD Modelling skills, which I acquired during my Bachelor. 
+
+(Interaction Design ...)
 
 #### Courses:
 
@@ -25,14 +21,9 @@ From Idea to Design, Creative Programming, Creative Electronics, Creative Mechan
 
 ### Technology & Realization
 
-As a teenager, I could sew my own clothes, work with wood, drawing and spray-painting.
+As a teenager, I sewed my own clothes, worked with wood, drew sketches and spray-painted.
 
-- "echt" programmeren (C, C++, C#, Java, Python)
-- 3D modelling & printing
-- Arduino, Processing
-- Electronics (analog & digital)
-- IoT
-- Machine Learning
+At the TU/e I learned how to program (C, C++, C#, Java, Python, Arduino, Processing), how to make models in 3D and print these, how to design electronic circuitry (analog & digital) and how to solder and assemble these. I have created new ideas for the IoT and realised these myself and used Machine Learning to implement complex behaviour, learning from human input. 
 
 #### Courses:
 
@@ -41,17 +32,21 @@ From Idea to Design, Creative Programming, Creative Electronics, Creative Mechan
 
 ### User & Society
 
-As a high school student, I didn't have .... as I have now. 
+Being graduated from high school student, I was just ...
 
-- Ethiek
-- Debating
-- The beauty of "good" interaction
-- Meer abstract kijken naar interactie
-- Rekening houden met culturele verschillen
+Now I have gained more awareness on the variety of opinions, cultures, norms and values. To overcome these differences, I have improved my debating skills. On the other hand I became more couragous and deliberately triggered discussions on controversial ideas.  
+I have learned to witness interaction on a purely abstract level, in order to create richer experiences.
+This enables me to design interactions, which convey the design's values.
 
 #### Courses:
 
 User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design, Aesthetics of Interaction, Design for Debate, Design < > Research, Aesthetics of Interaction
+
+
+
+----
+----
+----
  
 ### Business & Entrepreneurship
 
