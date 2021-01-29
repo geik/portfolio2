@@ -15,7 +15,7 @@ During my Final Bachelor Project I have applied my CAD Modelling skills, which I
 
 (Interaction Design ...)
 
-#### Courses:
+#### Courses
 
 From Idea to Design, Creative Programming, Creative Electronics, Creative Mechanical Engineering, Exploratory Sketching, Aesthetics of Interaction, Design for Games & Play I
 
@@ -25,7 +25,7 @@ As a teenager, I sewed my own clothes, worked with wood, drew sketches and spray
 
 At the TU/e I learned how to program (C, C++, C#, Java, Python, Arduino, Processing), how to make models in 3D and print these, how to design electronic circuitry (analog & digital) and how to solder and assemble these. I have created new ideas for the IoT and realised these myself and used Machine Learning to implement complex behaviour, learning from human input. 
 
-#### Courses:
+#### Courses
 
 From Idea to Design, Creative Programming, Creative Electronics, Creative Mechanical Engineering, Engineering Design, Design for Games & Play I, Technologies for Connectivity, Interactive Intelligent Products
 
@@ -38,7 +38,7 @@ Now I have gained more awareness on the variety of opinions, cultures, norms and
 I have learned to witness interaction on a purely abstract level, in order to create richer experiences.
 This enables me to design interactions, which convey the design's values.
 
-#### Courses:
+#### Courses
 
 User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design, Aesthetics of Interaction, Design for Debate, Design < > Research, Aesthetics of Interaction
 
@@ -56,7 +56,7 @@ Thinking "business" is not within my comfort zone, but I feel and understand the
 - Business Model Innovation
 - Sustainability
 
-#### Courses:
+#### Courses
 
 Introduction to Technology Entrepreneurship, Organizing Entrepreneurship, Entrepreneurship in Action, Design Innovation Methods, Design for a Sustainable Future
 
@@ -70,7 +70,7 @@ From high school I had a basic Math & Physics knowledge.
 - Analyse met Python, bijvoorbeeld van sensor-data
 - Machine Learning, voor bijv. (near)realtime analyse
 
-#### Courses:
+#### Courses
 
 Creative Programming, Calculus, Applied Physics, Creative Electronics, Data Analytics for Engineers, Making Sense of Sensors, Design for Games & Play I, Interactive Intelligent Products, Computer Graphics
 
