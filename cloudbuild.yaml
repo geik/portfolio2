@@ -8,8 +8,6 @@ steps:
   - name: jekyll/builder:latest
     entrypoint: jekyll
     args: ["build", "--verbose"]
-  - name: 'bash'
-    args: ["-c", "cat ./_site/index.html"]
   - name: gcr.io/cloud-builders/gsutil
     args: ["-m", "rsync", "-r", "-d", "./_site", "gs://jorg.eikens.com"]
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
