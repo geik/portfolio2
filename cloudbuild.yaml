@@ -11,4 +11,4 @@ steps:
   - name: gcr.io/cloud-builders/gsutil
     args: ["-m", "rsync", "-r", "-d", "./_site", "gs://jorg.eikens.com"]
   - name: gcr.io/$PROJECT_ID/firebase
-    args: ['deploy', '--project=$PROJECT_ID', '--only=hosting']
+    args: ['deploy', '--project=$PROJECT_ID', '--verbose', '--only=hosting']
