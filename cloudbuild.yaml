@@ -12,6 +12,8 @@ steps:
     args: ["-c", "cat ./_site/index.html"]
   - name: gcr.io/cloud-builders/gsutil
     args: ["-m", "rsync", "-r", "-d", "./_site", "gs://jorg.eikens.com"]
-  - name: gcr.io/cloud-builders/gsutil
-    args: ["cat", "gs://jorg.eikens.com/index.html"]
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: 'bash'
+    args: ['-c', 'gcloud config set app/cloud_build_timeout 1600 && gcloud app deploy']
+  timeout: '1600s'
     
