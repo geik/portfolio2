@@ -5,11 +5,11 @@ steps:
     args: ["-c", "chmod 777 -R ."]
   - name: 'bash'
     args: ["-c", "cat ./_config.yml"]
-  - name: 'bash'
-    args: ["-c", "rm -r ./_site"]    
   - name: jekyll/builder:latest
     entrypoint: jekyll
     args: ["build", "--verbose"]
+  - name: 'bash'
+    args: ["-c", "cat ./_site/index.html"]
   - name: gcr.io/cloud-builders/gsutil
     args: ["-m", "rsync", "-r", "-d", "./_site", "gs://jorg.eikens.com"]
     
