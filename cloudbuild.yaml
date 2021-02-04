@@ -12,4 +12,6 @@ steps:
     args: ["-c", "cat ./_site/index.html"]
   - name: gcr.io/cloud-builders/gsutil
     args: ["-m", "rsync", "-r", "-d", "./_site", "gs://jorg.eikens.com"]
+    - name: gcr.io/cloud-builders/gsutil
+    args: ["cat", "gs://jorg.eikens.com"]
     
