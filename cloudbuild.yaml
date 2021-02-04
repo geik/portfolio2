@@ -6,7 +6,7 @@ steps:
   - name: 'bash'
     args: ["-c", "cat ./_config.yml"]
   - name: 'bash'
-    args: ["-c", "rm -r _site"]    
+    args: ["-c", "rm -r ./_site"]    
   - name: jekyll/builder:latest
     entrypoint: jekyll
     args: ["build", "--verbose"]
