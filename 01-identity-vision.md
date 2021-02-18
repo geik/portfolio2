@@ -12,6 +12,11 @@ title: "Identity & Vision"
 1. I want products to be "designed for repair"
 1. I want products to be modular and adaptable to someone else's needs
 
+We live in a day and age where we are continually pushed into using products and services which are aprescribed by big corporations. These products and services are designed with a standard definition of the user in mind. However, I believe this definition does not provide a good solution for all users. A demand for better fitting products can be seen in the various hacker and maker comunities evolving around existing product ecosystems, in order to make the products provided by the big corporations better suit their indivual needs. 
+By means of personalization, users are able to better express their individual vision and goals, while doing so more effectively and efficiently. It allows them to better adapt to the uniqueness of their encounters with their products.
+So while a large amount of consumers are happy to use the products and services provided by manufacterers, a response to the growing hacker and maker communities should be formulated in order to make adapting products easier. Existing solutions can already be found in the form of APIs and open source software, but this doesn't awnser the need for tangible adaption.
+Devices should be able to be manipulated and modified on a physical level. If individual products would be designed more like an interconnected system of building blocks, it can more easily be adapted to the needs and requirements set by the users. If the underlying technologies and thought processes are open sourced, then individual makes or partnering companies could provide modular solutions for this emerging need to make devices unlock the users ultimate potential.
+
 ## Identity
 
 As a child, solving puzzles and getting to know "how things work" were some of my many pleasures. 
