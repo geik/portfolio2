@@ -5,7 +5,27 @@ title: To do
 
 ### Portfolio
 
-1. Vision: feedback Femke verwerken
+1. Vision - Feedback Femke verwerken
+    - Toevoegen "Magical Moments" en "Virtuosity"
+    - Waarom is het GOED als hardware & software openbaar beschikbaar is en aanpasbaar is?
+      (Ultra-normal design vs. Modular/Adaptable)
+        - Omdat er vanuit Hacker- & Maker communities vraag naar is?
+        - Bronvermeldingen?
+        - Huidig research?
+        - Design Theorieen?
+    - "Hacker cultuur"? Wat is de maatschappelijke context?
+    - Structuur
+        - Start
+            - Er is een probleem
+            - Er zijn redenen waarom je dit probleem NU serieus moet nemen
+            - Dit probleem heeft maatschappelijke context, heeft historie, en mensen doen er tegenwoordig onderzoek naar
+        - Midden
+            - Terug naar het probleem
+            - Ik ben heel belangrijk en DIT vind ik van het probleem
+        - Eind
+            - Samenvatting: er is een probleem, dat probleem heeft context, er zijn belangrijke mensen die mogelijke oplossingen hebben
+            - Ik hen er zelf over nagedacht en ik heb een oplossing die een beetje lijkt op die van de profs. Dit is was ik met mijn eigen werk wil gaan doen
+            - Ik ben de persoon die dit heeft geschreven en ik wil me HIEROM richten op deze bepaalde aspecten van het probleem & de oplossingen. 
 1. Development: verder vanaf Business
 1. Projects: meer projecten & vakken toevoegen
 
