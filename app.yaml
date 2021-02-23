@@ -8,9 +8,11 @@ handlers:
   upload: _site/index.html
   secure: always
   redirect_http_response_code: 301
+  login: admin
 
 - url: /(.*)
   static_files: _site/\1
   upload: _site/(.*)
   secure: always
   redirect_http_response_code: 301
+  login: admin
