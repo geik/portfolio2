@@ -28,7 +28,8 @@ title: To do
 - Laminaat leggen
 
 ##### Zaterdag 20 februari 2021
-    - Portfolio vormgeving aanpassingen
+
+- Portfolio vormgeving aanpassingen
 
 ##### Zondag 21 februari 2021
 
