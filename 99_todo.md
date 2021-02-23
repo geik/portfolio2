@@ -5,11 +5,13 @@ title: To do
 
 ### Portfolio
 
+1. Vision: feedback Femke verwerken
 1. Development: verder vanaf Business
 1. Projects: meer projecten & vakken toevoegen
 
 ### Website
 
+1. Wachtwoord zetten op de uiteindelijke site
 1. Relative links to markdown files didn't work, even with a plugin. Figure out why.
 1. Vormgeving op hoofdlijnen al wat aanpassen.
 1. Mooie afbeeldingen zoeken en opnemen
