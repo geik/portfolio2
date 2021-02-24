@@ -1,5 +1,5 @@
 ---
-layout: page-in-nav
+layout: default
 title: FBP Process
 ---
 

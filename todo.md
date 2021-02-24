@@ -1,7 +1,12 @@
 ---
-layout: page-in-nav
+layout: default
 title: To do
 ---
+
+- [lessons learned](98_lessons_learned)
+- [process](96_process) 
+- [test](test)
+
 
 ### Portfolio
 
