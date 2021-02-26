@@ -22,22 +22,17 @@ Devices should be able to be manipulated and modified on a physical level. If in
 
 ## Identity
 
-As a child, solving puzzles and getting to know "how things work" were some of my many pleasures. 
-From my teenage years on, I like to work with sewing machines and machinery in general. I LOVE to make stuff.  
-Later on I used my pre-existing curiosity for computers to adopt 3D modelling and computer-aided design. What excites me a lot is bridging this digital/virtual/conceptual world and the physical world. For example with the use of 3D printing.  
-Bridging "digital" and "physical" also fascinates me as a designer, especially when it impacts the user in their daily lives & -routines.
+As a child, solving puzzles and getting to know "how things work" were some of my many pleasures. From my teenage years and onward, I like to work with sewing machines and other fabrication machinery. In a nutshell, I love to make things.  
+Later down the line, through my pre-existing curiosity in computers and spatial design of costumes and clothes, I adopted 3D modelling and computer-aided design. It excites me a lot to use these software packages to bridge the gap between the conceptual world in my head, modelling that in software and finally bringing it to life in the physical world. For bringing my designs into the real world I adopted the use of 3D printer technology.  
+Bridging the _digital_ and the _physical_ fascinates me as a designer, especially when I can impacts the use of products in users' daily lives and routines.
 
-During the design process and implementation, usually there are many puzzles to solve. Analyzing these problems, figuring out solutions and making my hands dirty while prototyping and testing, is when I see my talents come fully to their right.  
-I'm a perseverer and I won't rest until I'm done. An fine quality for getting things done. But something it can lead to tunnelvision; this is the moment that I realise that I absolute need the dynamics of a team. Every now and then I need others to put me back on earth again, when I overstrain. 
-When I see others struggle I feel a strong urge to help and coach them; and share my knowledge and expertise to help them succeed. Together you are smarter than one. 
+During design processes there are many small puzzles and challenges to overcome. Analyzing them, figuring out solutions and getting my hands dirty while testing and prototyping is when I see my talents reach their peak potential. I'm a perseverer and I won't rest until I'm done. An good quality for persisting in getting things the way I envision them. Howerver, it can lead to tunnelvision; this is the moment that I realise that I benefit from the dynamics of working in a team. Every now and then, whenever I drift off course from the main course, I need others to pull me back to earth. Also, when I see others struggle I feel a strong urge to help and coach them; and share my knowledge and expertise to help them succeed. Together you are smarter than one. This also helps me to stay grounded and keeps my mind active.
 
-I usually shape a concept into something, which is built on the technologies available. My strength is to realise it into a functioning artefact, even if I step into unknown territory. New technologies & tools won't stop me, especially when they enrich the original design concept.  
+Whenever I am working on a new concept I tend to build on the technologies I have available to me. My strength is to realise it into a functioning artefact, even if I step into unknown territory. New technologies & tools won't stop me, it only makes it more exciting for me to work on a project because I learn a lot of new things in the process. Especially when these new technologies enrich the original design concept, I creates the driving force to never stop and push the boundaries of what I thought was possible.
 
-In order to form a design concept to begin with, I want to explore as many opportunities and options as possible. What if ...? Suppose ...? Can we ...?
-For me, exploration means also experimenting with ALL of the options. To validate these and to determine their impact, their feasibility and their qualities for the user. 
+In order to form a design concept to begin with, I want to explore as many opportunities and options as possible. Nothing is too far fetched, as long as it drives novel thinking and use of technology. For me exploration also means experimenting with all options possible in the amount of time I have. To validate these and to determine their impact, their feasibility and their value for the user. 
 
-Combining existing- with new technologies into something that people can embed in THEIR everyday, in THEIR own way, in a way that it puts a smile upon THEIR face, inspires me.
-It takes small steps to eventually make this world a better and also a more sustainable place. And I like to be an active contributor. 
+Combining existing and new technologies into something that people can embed in **their** everyday, in **their** own way, in a way that it puts a smile upon **their** face, that really inspires me and genuinely makes me happy. It takes small steps to eventually make this world a better place. I want to be an active contributor in that gradual process. 
 
 References:
 Maker Cultures and the Prospects for Technological Action
