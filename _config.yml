@@ -1,6 +1,6 @@
 url: "http://jorg.eikens.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-title: "Jorg Eikens" # the name of your site, e.g. ACME Corp.
+title: "Jorg" # the name of your site, e.g. ACME Corp.
 sass:
   sass_dir: css
   style:    compressed
