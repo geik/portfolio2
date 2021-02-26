@@ -7,7 +7,7 @@ title: "Projects"
 
 Stream is an interactive experience to be installed in tunnels. The aim is to make tunnels for foot and cycling traffic safer. It will be discussed how Stream uses references from nature to create an atmosphere inside the tunnel that induces calmness. A turtle that is displayed on the wall leads people passing through by walking slightly in front of them. This creates a feeling of guidance and makes people feel less alone. Sounds of windchimes create a calming atmosphere, symbolising unity with the earth. Reflecting organic shapes create "echoes" of light, creating a unity and giving a cozy feeling. Prototyping of this product consisted of a mechanical prototype, a polished prototype using sensors, and an interactive virtual reality experience. This report discusses the process of going from the pressure-cooker to the final demo-day. The ideation process, use of user-tests, prototyping, iterations, teamwork, and reflection on the project will all be discussed further in-depth.
 
-
+_Insert Picture_
 
 ## Upside Dawn (Project B2.1)
 
