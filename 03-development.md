@@ -7,9 +7,9 @@ title: "Development"
 
 ### Creativity & Aesthetics
 
-When I started my Bachelor, I thought that I had a pretty solid background regarding creativity and manufacturing. But during the first year I found out that I was only at the very start of a journey and that there's a lot to learn.
+When I started my Bachelor, I thought that I had a pretty solid background regarding creativity and crafting, but during the first year I found out that I was only at the very start of a journey and that I had a lot to learn.
 
-I have learned to use a variety of tools, to see and use creativity as a process, how to shape a concept by exploratory sketching, how to turn a concept into a digital prototpye and to witness the beauty of interaction. 
+I gained the ability to use a various array of tools to use in the creative process. I like to use these tools as a means to explore and shape a concept. Mainly through the use of rough exploratory sketches and spatial explorations. I can turn these rough ideas into a digital concept through CAD and computer modelling, from that point on I will turn those concepts into a tangible design through the use of 3D printing or woodworking to be able to witness the physical aspect of interacting with the concept. 
 
 During my Final Bachelor Project I have applied my CAD Modelling skills, which I acquired during my Bachelor. 
 
