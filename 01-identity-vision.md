@@ -5,13 +5,6 @@ title: "Identity & Vision"
 
 ## Vision
 
-1. I design to be a part of other people's everyday life
-1. Besides creating "Magical Moments", I want people to understand my ideas and actually use the products that I make
-1. I share all my knowledge; my knowledge should be "open" to everyone
-1. I want to be fully transparant on my design and on the ways to implement it. "Open Source" design, hardware & software
-1. I want products to be "designed for repair"
-1. I want products to be modular and adaptable to someone else's needs
-
 We live in a day and age where we are continually pushed into using products and services which are prescribed to us by big corporations. These products and services are designed with a standard definition of the user in mind. However, I believe this definition does not provide a good solution for all users. A demand for better fitting products can be seen in the various hacker and maker communities evolving around existing product ecosystems, in order to make the products provided by the big corporations better suit their indivual needs.
 
 The maker movement is a relatively recent trend, with a wide audiance able to access a set of tools and machines which is getting cheaper and more accesible than ever before. (S. Nascimento & A. Polvora, 2016) The relationship between a maker and their technology is something which is quite complex, going further than simply expressing their creativity, their drive is often connected to a diverse set of social, economic, cultural, political and ethical factors.
