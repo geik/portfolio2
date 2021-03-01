@@ -9,10 +9,11 @@ title: "Development"
 
 When I started my Bachelor, I thought that I had a pretty solid background regarding creativity and crafting, but during the first year I found out that I was only at the very start of a journey and that I had a lot to learn.
 
-I gained the ability to use a various array of tools to use in the creative process. I like to use these tools as a means to explore and shape a concept. Mainly through the use of rough exploratory sketches and spatial explorations. I can turn these rough ideas into a digital concept through CAD and computer modelling, from that point on I will turn those concepts into a tangible design through the use of 3D printing or woodworking to be able to witness the physical aspect of interacting with the concept. 
+I gained the ability to use a various array of tools to use in the creative process. I like to use these tools as a means to explore and shape a concept. Mainly through the use of rough exploratory sketches and spatial explorations. I like to sketch out my ideas to explore the different possible shapes, features and modalities. I can turn these rough ideas and sketches into a digital concept through CAD and computer modelling, from that point on I will turn those concepts into a tangible design through the use of 3D printing or woodworking to be able to witness the physical aspect of interacting with the concept.
 
-During my Final Bachelor Project I have applied my CAD Modelling skills, which I acquired during my Bachelor. 
+I have always longed for a more engaging method to make compter models. Somethings which would allow me to brainstorm through modeling in a tangible manner. I have recently accuired a VR headset which alows me to do just that. I want to examine the characteristics of interacting with a model through seeing it in 3D space relative to your own size. Software called Adobe Medium allows me to achieve this very roughly. I don't have to make a model using Fusion 360 and then 3D print it to assess it, but I can now explore the shape more intuitively. This means I don't have to reprint and revise my CAD models all the time saving me a lot of time and resources.
 
+During my Final Bachelor Project I have applied my knowledge and skills of these creative processes, which I have acquired during my Bachelor. I have explored the use of VR in aiding this process. I will continue to explore the possibilities of VR and AR modelling in my future projects.
 (Interaction Design ...)
 
 ###### Courses
@@ -21,9 +22,17 @@ From Idea to Design, Creative Programming, Creative Electronics, Creative Mechan
 
 ### Technology & Realization
 
-As a teenager, I sewed my own clothes, worked with wood, drew sketches and spray-painted.
+When I was younger, one of my first real creative hobbies was sewing. I also worked a lot with wood and such materials in highschool to create maquettes for various courses. I also liked to modify toys by giving them a custom look using different techniques of painting.
 
-At the TU/e I learned how to program (C, C++, C#, Java, Python, Arduino, Processing), how to make models in 3D and print these, how to design electronic circuitry (analog & digital) and how to solder and assemble these. I have created new ideas for the IoT and realised these myself and used Machine Learning to implement complex behaviour, learning from human input. 
+My realisition process was very much focussed on realizing my ideas about the aesthetic. I have always had ideas about what something should do and how it should work. My parents used to call me the "researcher" when I was a kid, becayse I was constantly trying to figure out what made my devices around me tick. I quickly discovered that most of my toys and such are driven electronics of some sort. My initial interest in electronics was sparked from a very young age. I also played a lot of video games when I was younger and always wondered how such complex behaviour could be achieved with these electroncis. This sparked an early interest in computer software and hardware.
+
+At the TU/e I finally learned how to program these devices and softare which I have been wondering so long about. Mainly through programming with Arduino, C and C++ I learned a great deal about how the supposed barrier between the digital and physical is overcome. Through languages like Java, Processing and Python I learned more about how to create complex behaviour through creating software. I also worked with the C# language in the game engine Unity to develop video games. 
+
+In order to expand my skillset in realizing physical representations of my concepts I learned how to work with Solidworks and Fusion 360 in order to create 3D models and I taught myself how to use and maintain 3D printers to create high fidelity prototypes from these models.
+
+My journey into realising my ideas on how to design electronic circuits which achieve certain functionality started with the Physics and Creative Electronics courses. I can create basic funcionality through use of analog circuits, but more importantly use them in conjunction with existing digital microprocessors in order to achieve sensory input registration for the various input modalities for my protypes. 
+
+I became very capable in soldering these circuits up to the point where a lot of people see me as the granddad of soldering. I can not only realize my own electronic imagination, I am always happy to help others out in realizing their wildest dreams they have regarding electronics and teach them how to use the different tools available so they can wield the soldering iron as their weapon. Many people view electronics as a very big demon to slay in their projects. I want to show people that it is not as hard as it might initially seem.
 
 ###### Courses
 
@@ -63,7 +72,7 @@ Introduction to Technology Entrepreneurship, Organizing Entrepreneurship, Entrep
 
 ### Math, Data & Computing
 
-From high school I had a basic Math & Physics knowledge. 
+From high school I had a basic Math & Physics knowledge. I have created new ideas for the IoT and realised these myself and used Machine Learning to implement complex behaviour, learning from human input. 
 
 - Calculus
 - Advanced Physics
@@ -72,7 +81,7 @@ From high school I had a basic Math & Physics knowledge.
 
 ###### Courses
 
-Creative Programming, Calculus, Applied Physics, Creative Electronics, Data Analytics for Engineers, Making Sense of Sensors, Design for Games & Play I, Interactive Intelligent Products, Computer Graphics
+Creative Programming, Calculus, Applied Physics, Creative Electronics, Data Analytics for Engineers, Making Sense of Sensors, Design for Games & Play I, Technologies for Connectivity, Interactive Intelligent Products, Computer Graphics
 
 ## Design and Research processes
 
