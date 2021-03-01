@@ -7,7 +7,7 @@ title: "Development"
 
 ### Creativity & Aesthetics
 
-When I started my Bachelor, I thought that I had a pretty solid background regarding creativity and crafting, but during the first year I found out that I was only at the very start of a journey and that I had a lot to learn.
+When I started my bachelor, I thought that I had a pretty solid background regarding creativity and crafting, but during the first year I found out that I was only at the very start of a journey and that I had a lot to learn.
 
 I gained the ability to use a various array of tools to use in the creative process. I like to use these tools as a means to explore and shape a concept. Mainly through the use of rough exploratory sketches and spatial explorations. I like to sketch out my ideas to explore the different possible shapes, features and modalities. I can turn these rough ideas and sketches into a digital concept through CAD and computer modelling, from that point on I will turn those concepts into a tangible design through the use of 3D printing or woodworking to be able to witness the physical aspect of interacting with the concept.
 
@@ -48,7 +48,7 @@ This enables me to design interactions, which convey the design's values. (Inter
 
 ###### Courses
 
-User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design, Aesthetics of Interaction, Design for Debate, Design < > Research, Aesthetics of Interaction
+User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design, Aesthetics of Interaction, Design for Debate, Design < > Research
 
 
 
@@ -58,11 +58,17 @@ User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design,
  
 ### Business & Entrepreneurship
 
-Thinking "business" is not within my comfort zone, but I feel and understand the importance of all the various aspects for starting and running a business. 
+I was never into anything related to business or entrepreneurship. I always thought it mainly was about making money. For me the journey towards a goal and gratification from external parties weight much heavier than my personal materialistic gains. 
 
-- Business is meer dan alleen maar geld verdienen
-- Business Model Innovation
-- Sustainability
+Because I needed to incorporate some form of business and entrepreneurship in my curriculum I looked at ways it could be tackled differently. I picked the USE trajectory Technology Entrepreneurship in order to learn more about it in general. I got introduced with venture entrepreneurship/capitalism through the introductory course Introduction to Technology Entrepreneurship. The second course Organizing Entrepreneurship dives deeper into the topic and introduces corporate structures and dives deeper into setting up business models by analyzing existing companies. The final course Entrepreneurship in Action takes everything from the previous courses and tasks you with proposing your own business model through a group project.
+
+I learned a great deal about what setting up a business entails and what tools you can use to achieve just that. However, some of my prejudices about business and entrepreneuship were actually confirmed by what I have learned about it. According to the courses a succcesful corporation was primarily defined by it making money (apart from non-profit organisations), which is exacly what detered me from the topic in the first place.
+
+Through this experience I strived to find a new kind of entrepreneurship which does not necessarily defines profit in terms of making money. I firmly believed you can also see it in a more societal perspective. An example: government businesses don't always need to make a profit because their expenses are covered by tax money, their "profit" is defined in how much value they create for society. 
+
+I found a deepening course called Design for a Sustainable Future, which takes an in depth look at business model innovation. It looks at different alternative stratagies when it comes to defining a business model where profit is not purely defined in terms of money but also socio-cultural value is concidered as such as well as sustanibility. Multiple strategies are discussed like looking at waste streams in current business models and creating more value out of those; replacing industrial processes with natural and sustainable ones. It also looks into creating sustainable and socially responsible business models from the start.
+
+I look forward into learning more about this topic in the future, particularly from the faculty of Sustainable Innovation. I will probably never be much of a real entrepreneur myself, but knowing what is going on in their field and being able to partake in the conversation striving towards a better future, together with others who are more at home in this field we can certainly help shape the entrepreneurial landscape for the upcoming generations.
 
 ###### Courses
 
