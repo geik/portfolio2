@@ -14,7 +14,6 @@ I gained the ability to use a various array of tools to use in the creative proc
 I have always longed for a more engaging method to make compter models. Somethings which would allow me to brainstorm through modeling in a tangible manner. I have recently accuired a VR headset which alows me to do just that. I want to examine the characteristics of interacting with a model through seeing it in 3D space relative to your own size. Software called Adobe Medium allows me to achieve this very roughly. I don't have to make a model using Fusion 360 and then 3D print it to assess it, but I can now explore the shape more intuitively. This means I don't have to reprint and revise my CAD models all the time saving me a lot of time and resources.
 
 During my Final Bachelor Project I have applied my knowledge and skills of these creative processes, which I have acquired during my Bachelor. I have explored the use of VR in aiding this process. I will continue to explore the possibilities of VR and AR modelling in my future projects.
-(Interaction Design ...)
 
 ###### Courses
 
@@ -45,7 +44,7 @@ Being graduated from high school student, I was just ...
 
 Now I have gained more awareness on the variety of opinions, cultures, norms and values. To overcome these differences, I have improved my debating skills. On the other hand I became more couragous and deliberately triggered discussions on controversial ideas.  
 I have learned to witness interaction on a purely abstract level, in order to create richer experiences.
-This enables me to design interactions, which convey the design's values.
+This enables me to design interactions, which convey the design's values. (Interaction Design)
 
 ###### Courses
 
@@ -78,6 +77,7 @@ From high school I had a basic Math & Physics knowledge. I have created new idea
 - Advanced Physics
 - Analyse met Python, bijvoorbeeld van sensor-data
 - Machine Learning, voor bijv. (near)realtime analyse
+- IoT
 
 ###### Courses
 
