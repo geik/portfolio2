@@ -9,7 +9,7 @@ Subject of choice: Slowtech for Personal wellbeing.
 
 ## Initial Brainstorm
 
-Toghether with Pepijn. 
+Together with Pepijn. 
 
 From earlier Slowtech research:
 
@@ -53,7 +53,7 @@ Korte user study (vragenlijst) over de impact van het ophalen/triggeren van een 
 2. Hoe voel je je er nu over?
 3. Wat weet je nog over de context?
 
-Met Karim, Juan & Loes: een test session. 
+Met Carine, Juan & Loes: een test session. 
 1. Oude conversaties voorgelezen aan de ontvanger van het bericht destijds - er gingen geen belletjes rinkelen
 2. Letterlijk de tekst van een oude conversatie LATEN ZIEN aan de ontvanger van het bericht destijds - er gingen WEL belletjes rinkelen
 

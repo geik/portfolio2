@@ -40,15 +40,18 @@ From Idea to Design, Creative Programming, Creative Electronics, Creative Mechan
 
 ### User & Society
 
-Being graduated from high school student, I was just ...
+After graduating high school, I was very unaware of all the thought and knowledge which goes into designing a user friendly product. I looked at this process from a purely functional point of view. Going very literally from a need for a certain functionality to providing a solution which directly assesses that.
 
-Now I have gained more awareness on the variety of opinions, cultures, norms and values. To overcome these differences, I have improved my debating skills. On the other hand I became more couragous and deliberately triggered discussions on controversial ideas.  
-I have learned to witness interaction on a purely abstract level, in order to create richer experiences.
-This enables me to design interactions, which convey the design's values. (Interaction Design)
+Starting my studies at Industrial Design, an interest was sparked in going beyond the purely functional aspects of a product and extending into making usability more pleasing and stimulating more senses. Gaining an expanded sense of awareness in the important values and characteristics surrounding userfriendliness in interfaces and interaction modalities, being able to get into the users skin and designing something which awnsers their needs. I also sought perspectives from others cultures, norms and values and even going across moral boundaries in exploring what is not always accepted, deemed incorrect or inaproriate in an attempt to spark debate surrounding what design should and should not address.
+
+I also had the chance to experiment and experience different levels of abstraction in creating and analyzing models describing interaction between user and product or ecosystem in order to study them more thoughtfully. Various methods of studying users include, but are not limit to, questionnaires, interviews and usertests. Analyzing the results from those is important to be able to communicate and verify their outcomes.
+Others approaches in more literally defining and testing how an imput modality should work can also be done using quantitative data. A very useful tool which I have picked up is machine learning, allowing gathered sensor and meta data from usertests to be used resulting in products which can react in a more seamless and smooth fashion compared to normal programming of software and devices. It allows for the tuning process to take vastly less time that classical methods.
+
+I still have a lot to learn in terms of building up expiernce in this field though, since my expertises have always made me end up on the Technology & Realisation tasks in team projects. With my experience in that expertise I can now solely focus on working out User & Society aspects in my upcoming studying and working career.
 
 ###### Courses
 
-User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design, Aesthetics of Interaction, Design for Debate, Design < > Research
+User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design, Aesthetics of Interaction, Design for Debate, Design < > Research, Itelligent Interactive Products
 
 
 
