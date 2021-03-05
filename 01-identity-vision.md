@@ -7,7 +7,7 @@ title: "Identity & Vision"
 
 We live in a day and age where we are continually pushed into using products and services which are prescribed to us by big corporations. These products and services are designed with a standard definition of the user in mind. However, I believe this definition does not provide a good solution for all users. A demand for better fitting products can be seen in the various hacker and maker communities evolving around existing product ecosystems, in order to make the products provided by the big corporations better suit their indivual needs.
 
-The maker movement is a relatively recent trend, with a wide audiance able to access a set of tools and machines which is getting cheaper and more accesible than ever before. (S. Nascimento & A. Polvora, 2016) The relationship between a maker and their technology is something which is quite complex, going further than simply expressing their creativity, their drive is often connected to a diverse set of social, economic, cultural, political and ethical factors.
+The maker movement is a relatively recent trend, with a wide audience able to access a set of tools and machines which is getting cheaper and more accesible than ever before. (S. Nascimento & A. Polvora, 2016) The relationship between a maker and their technology is something which is quite complex, going further than simply expressing their creativity, their drive is often connected to a diverse set of social, economic, cultural, political and ethical factors.
 I think that by means of personal adaptation, these makers are better able to express their individual vision and goals, while doing so more efficiently and effectively. It allows them to better adapt their technologies to the uniqueness of their daily encounters with them.
 
 So while a large amount of consumers are happy to use the products and services provided by manufacterers, a response to the growing hacker and maker communities should be formulated in order to make adapting products easier. Existing solutions can already be found in the form of APIs and open source software, but this doesn't awnser the need for tangible adaption.
@@ -26,6 +26,6 @@ Whenever I am working on a new concept I tend to build on the technologies I hav
 In order to form a design concept to begin with, I want to explore as many opportunities and options as possible. Nothing is too far fetched, as long as it drives novel thinking and use of technology. For me exploration also means experimenting with all options possible in the amount of time I have. To validate these and to determine their impact, their feasibility and their value for the user. 
 
 Combining existing and new technologies into something that people can embed in **their** everyday, in **their** own way, in a way that it puts a smile upon **their** face, that really inspires me and genuinely makes me happy. It takes small steps to eventually make this world a better place. I want to be an active contributor in that gradual process. 
-
+    
 References:
-Maker Cultures and the Prospects for Technological Action
+Nascimento, S., & Pólvora, A. (2016). Maker Cultures and the Prospects for Technological Action. Science and Engineering Ethics, 24(3), 943–944. https://doi.org/10.1007/s11948-016-9796-8
