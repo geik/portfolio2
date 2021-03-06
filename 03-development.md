@@ -18,7 +18,7 @@ During my Final Bachelor Project I have applied my knowledge and skills of these
 ###### Courses
 
 From Idea to Design, Creative Programming, Creative Electronics, Creative Mechanical Engineering, Exploratory Sketching, Aesthetics of Interaction, Design for Games & Play I
-
+ 
 ### Technology & Realization
 
 When I was younger, one of my first real creative hobbies was sewing. I also worked a lot with wood and such materials in highschool to create maquettes for various courses. I also liked to modify toys by giving them a custom look using different techniques of painting.
@@ -36,8 +36,7 @@ I became very capable in soldering these circuits up to the point where a lot of
 ###### Courses
 
 From Idea to Design, Creative Programming, Creative Electronics, Creative Mechanical Engineering, Engineering Design, Design for Games & Play I, Technologies for Connectivity, Interactive Intelligent Products
-
-
+ 
 ### User & Society
 
 After graduating high school, I was very unaware of all the thought and knowledge which goes into designing a user friendly product. I looked at this process from a purely functional point of view. Going very literally from a need for a certain functionality to providing a solution which directly assesses that.
@@ -52,13 +51,7 @@ I still have a lot to learn in terms of building up expiernce in this field thou
 ###### Courses
 
 User-centred Design, Socio-cultural Sensitivity, USE Basics, Engineering Design, Aesthetics of Interaction, Design for Debate, Design < > Research, Itelligent Interactive Products
-
-
-
-----
-----
-----
- 
+ 
 ### Business & Entrepreneurship
 
 I was never into anything related to business or entrepreneurship. I always thought it mainly was about making money. For me the journey towards a goal and gratification from external parties weight much heavier than my personal materialistic gains. 
@@ -76,8 +69,7 @@ I look forward into learning more about this topic in the future, particularly f
 ###### Courses
 
 Introduction to Technology Entrepreneurship, Organizing Entrepreneurship, Entrepreneurship in Action, Design Innovation Methods, Design for a Sustainable Future
-
-
+ 
 ### Math, Data & Computing
 
 From high school I had a basic Math & Physics knowledge. I have created new ideas for the IoT and realised these myself and used Machine Learning to implement complex behaviour, learning from human input. 
@@ -91,7 +83,7 @@ From high school I had a basic Math & Physics knowledge. I have created new idea
 ###### Courses
 
 Creative Programming, Calculus, Applied Physics, Creative Electronics, Data Analytics for Engineers, Making Sense of Sensors, Design for Games & Play I, Technologies for Connectivity, Interactive Intelligent Products, Computer Graphics
-
+ 
 ## Design and Research processes
 
 - Met wetenschappelijke informatie leren omgaan
@@ -123,7 +115,7 @@ Creative Programming, Calculus, Applied Physics, Creative Electronics, Data Anal
 - Taken opdelen en werk weer samenvoegen
 - Onderpresteren en over-compenseren
 - Verschil in snelheid tussen teamgenoten
-
+ 
 ## Courses
  
 ### First Year
