@@ -3,6 +3,7 @@ layout: default
 title: "Home"
 ---
 
-Here's my portfolio.
-
-![this is a 3D printer](images/3dprinter.jpg "3dprinter"){:class="jorg-tile-gray"} [![this is code](images/code.png "code"){:class="jorg-tile-gray"}](code.html) [![this is me](images/jorg.jpg "jorg"){:class="jorg-tile"}](about.html)
+[![project upside down](images/project-upside-dawn-square.jpg "project upside down"){:class="image-tile-gray"}](04-projects.html#upside-dawn-project-b21)
+[![project stream](images/stream-square.jpg "project stream"){:class="image-tile-gray"}](04-projects.html#stream-project-b12)
+[![this is me](images/jorg-2.jpg "jorg"){:class="image-tile-gray"}](about.html)
+[![project iris](images/project-iris-2-square.jpg "project iris"){:class="image-tile-gray"}](04-projects.html#iris-project-b22)
