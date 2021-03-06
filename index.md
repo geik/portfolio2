@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: image-tiles
 title: "Home"
 ---
 
