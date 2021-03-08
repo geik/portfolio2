@@ -91,7 +91,7 @@ During my master Industrial Design I would really like to explore the possibilit
 
 Creative Programming, Calculus, Applied Physics, Creative Electronics, Data Analytics for Engineers, Making Sense of Sensors, Design for Games & Play I, Technologies for Connectivity, Interactive Intelligent Products, Computer Graphics
  
-## Design and Research processes
+<!-- ## Design and Research processes
 
 - Met wetenschappelijke informatie leren omgaan
 
@@ -121,7 +121,7 @@ Creative Programming, Calculus, Applied Physics, Creative Electronics, Data Anal
 - Organiseren van de samenwerking
 - Taken opdelen en werk weer samenvoegen
 - Onderpresteren en over-compenseren
-- Verschil in snelheid tussen teamgenoten
+- Verschil in snelheid tussen teamgenoten -->
  
 ## Courses
  
